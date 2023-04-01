@@ -93,10 +93,3 @@ Belew 25 -> F
 50 to 60 -> C
 Above 80 -> A
 */
-
-#include<iostream>
-using namespace std;
-int main(){
-    
-    return 0;
-}
